@@ -1,5 +1,5 @@
 # Profit-Prediction-for-Food-Trucks
-Implementation of Linear Regression with one Variable.
+Implementation of Linear Regression with one Variable in MATLAB
 
 PROBLEM DESCRIPTION:
 Suppose you are the CEO of a restaurant franchise and are considering different cities for opening a new
