@@ -12,3 +12,9 @@ DATASET:
 The file ex1data1.txt contains the dataset for our linear regression problem. The first column is the "population of a city" and the second column is
 the "profit of a food truck" in that city. A negative value for profit indicates a loss.
 
+'plotData.m' file:-
+Before starting on any task, it is often useful to understand the data by visualizing it. For this dataset, you can use a scatter plot to visualize the
+data, since it has only two properties to plot (profit and population).
+![image](https://user-images.githubusercontent.com/68648171/122887028-1b19e300-d35e-11eb-8634-1db4465564b3.png)
+
+
